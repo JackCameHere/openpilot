@@ -645,6 +645,7 @@ FW_VERSIONS = {
       b'\x00\x00df\x00\x00\x00\x00',
     ],
     (Ecu.engine, 0x7e0, None): [
+      b'\x01EB4V000C\x00\x00\x00\x00\x00\x00\x00\x00',
       b'\xb5"@p\a',
       b'\xb5+@@\a',
       b'\xb5"@P\a',
